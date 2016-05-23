@@ -1,0 +1,29 @@
+@charset 'utf-8';
+
+a:link {
+	text-decoration: none;
+	color: #0070cb;
+}
+a:visited {
+	text-decoration: none;
+	color: #800080;
+}
+a:hover {
+	text-decoration: none;
+	color: #f00;
+}
+.hoverOpacity:hover {
+	zoom: 1;
+	opacity: .7;
+	filter: alpha(opacity=70);
+	-ms-filter: 'alpha(opacity=70)';
+	-moz-opacity: .7;
+}
+img {
+	vertical-align: bottom;
+}
+
+
+/*header*/
+
+/*footer*/
